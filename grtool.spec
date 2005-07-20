@@ -1,4 +1,3 @@
-#
 Summary:	Utility for grsecurity RBAC policy files
 Summary(pl):	Narzêdzie do plików polityki dla grsecurity RBAC
 Name:		grtool

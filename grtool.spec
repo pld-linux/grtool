@@ -1,5 +1,5 @@
 Summary:	Utility for grsecurity RBAC policy files
-Summary(pl):	Narzêdzie do plików polityki dla grsecurity RBAC
+Summary(pl.UTF-8):   NarzÄ™dzie do plikÃ³w polityki dla grsecurity RBAC
 Name:		grtool
 Version:	0.2
 Release:	1
@@ -17,9 +17,9 @@ grtool is a small utility useful for people who are dealing with
 learning logs and policy files created by and maintained for the
 grsecurity RBAC system.
 
-%description -l pl
-grtool jest ma³ym narzêdziem u¿ytecznym dla ludzi zajmuj±cych siê
-logami z uczenia siê oraz plikami polityki stworzonymi i utrzymywanymi
+%description -l pl.UTF-8
+grtool jest maÅ‚ym narzÄ™dziem uÅ¼ytecznym dla ludzi zajmujÄ…cych siÄ™
+logami z uczenia siÄ™ oraz plikami polityki stworzonymi i utrzymywanymi
 dla systemu grsecurity RBAC.
 
 %prep
